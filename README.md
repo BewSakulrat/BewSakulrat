@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
  I'm Bew, I'm full stack developer.
 </p>
-<p align='center'>You can reach me by   <a href="mailto:sakulrat.ra@gmail.com">sakulrat.ra@gmail.com</a>.</p>
+<p align='center'>You can reach me by <a href="mailto:sakulrat.ra@gmail.com">sakulrat.ra@gmail.com</a> or <a href="linkedin.com/in/sakulrat-ratpholsaen">linkedin</a>.</p>
 
